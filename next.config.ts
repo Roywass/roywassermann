@@ -5,7 +5,7 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: '/roywassermann',
+  basePath: '/roywassermann.com',
   trailingSlash: true,
 };
 
